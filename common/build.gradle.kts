@@ -29,7 +29,7 @@ taboolib {
 
 repositories {
     mavenCentral()
-    maven("https://repo.tabooproject.org/repository/releases")
+    // maven("https://repo.tabooproject.org/repository/releases")
 }
 
 dependencies {
