@@ -11,7 +11,7 @@ description = "Modern & Advanced Menu-Plugin for Minecraft Servers"
 
 repositories {
     mavenCentral()
-    maven("https://repo.tabooproject.org/repository/releases")
+    // maven("https://repo.tabooproject.org/repository/releases")
     maven("https://jitpack.io")
 }
 
