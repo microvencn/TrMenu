@@ -3,7 +3,7 @@ import java.util.UUID
 val taboolibVersion: String by rootProject
 
 plugins {
-    id("io.izzel.taboolib") version "1.56"
+    id("io.izzel.taboolib")
 }
 
 taboolib {
