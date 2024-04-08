@@ -4,7 +4,7 @@ plugins {
     id("org.gradle.java")
     id("org.gradle.maven-publish")
     kotlin("jvm") version "1.8.0" apply false
-    id("io.izzel.taboolib") version "2.0.11" apply false
+    id("io.izzel.taboolib") version "1.56" apply false
 }
 
 description = "Modern & Advanced Menu-Plugin for Minecraft Servers"
